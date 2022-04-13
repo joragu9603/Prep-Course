@@ -1,0 +1,5 @@
+Que es una variable: es un nombre para representar el valor de un dato por ejemplo escribir nombre en una caja para saber que es lo que contiene a dentro
+Que es un strink: se utilizan para representar caracteres, numero o otros simbolos o signos que van dentro de una comilla ("")
+Que es una funcion: nos permiten dividir el trabajo que hace un programa, en tareas más pequeñas separadas de la parte principal
+Que es una declaracion: es un nombre unico para una identidad por ejemplo: a la llamada manzana se le declara el nombre de naranja, simpre que invoque a la fruta saldra con el nombre de naranja
+Valores booleanos: se utiliza para declarar si es verdero, falso o si existe o no existe, por ejemplo: preguntar si el ladrillo de construccion es una fruta, uno va responder que eso es falso  ya que es un ladrillo de construccion no una fruta
