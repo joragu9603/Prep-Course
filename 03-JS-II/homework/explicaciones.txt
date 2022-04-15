@@ -1,0 +1,10 @@
+ for 
+Se usa para repetir una intruccion "x" cantidad de veces o infinita veces.
+&& 
+Se utiliza para que en una solo codicion se cumpla dos veces o mas condiciones, ejemplo:Pedir 5 mangos verdes y 5 mangos maduro, 
+significa que en una sola condicion se estan dando dos ordenes diferentes
+||
+se usa para devolver el valor booleano true si uno o ambos operandos son true y devuelve lo false contrario.
+ ! 
+ Simbolo de negacion
+  
