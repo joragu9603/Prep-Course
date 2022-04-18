@@ -1,0 +1,1 @@
+que es un Arrays: son un contenedor de diferentes tipos de elemetos que pueden ser de diferentes tipos de datos
