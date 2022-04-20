@@ -1,0 +1,7 @@
+﻿objetos:  un objeto es un entidad independiente con propiedades y tipos. Por ejemplo. Una lapiz es un objeto con propiedades. Una lapiz tiene un color, un diseño, un peso, un material del que está hecha, etc.
+propiedades: Las propiedades modifican los objetos, y el mismo nombre de propiedad se puede aplicar a objetos completamente diferentes.
+Supongamos que tiene una propiedad llamada vacío. Puede utilizar vacío donde quiera que convenga, tanto para decir que el estómago de jorge está vacío, como para decir que su comedor está vacío.
+metodos: las coasas que pueden hacer los objetos se llaman metodos.
+Bucles: los Bucles ofrecen una forma rapida y sencilla de hacer algo repetidamente.
+Notación de puntos vs notación de corchetes:  si queremos acceder a una propiedad del objeto podemos usar la notación del punto. a diferencia de la notacion de puntos,con las notaciones de corchetes
+a propiedades que tienen un espacio o un caracter no definido.
