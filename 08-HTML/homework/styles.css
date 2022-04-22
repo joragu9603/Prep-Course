@@ -1,0 +1,14 @@
+
+#divClass{
+    background-color: brown;
+    width: 500px;
+    height: 600px;
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+}
