@@ -1,0 +1,1 @@
+prototype: es una propiedad que contiene un constructor por default.

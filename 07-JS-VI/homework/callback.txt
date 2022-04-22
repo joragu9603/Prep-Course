@@ -1,0 +1,1 @@
+Callback:  funciones extensibles y que se ejecutan únicamente después de que tenga lugar otro evento o circunstancia.
